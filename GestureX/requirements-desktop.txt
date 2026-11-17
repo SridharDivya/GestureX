@@ -1,0 +1,6 @@
+# Only for running gesture_desktop.py on your own computer (not needed on Render)
+opencv-python
+mediapipe
+scikit-learn
+numpy
+pyttsx3
